@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oresplus",
+  "name": "Ores+",
+  "description": "Adds a rainbow of ores, ingots, nuggets, tools, and armor!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrIbby"],
+  "credits": "AbrarSyed and Draco18s for their open-sourced mods",
+  "logoFile": "assets/oresplus/textures/gui/screenshot1.png",
+  "screenshots": ["assets/oresplus/textures/gui/screenshot1.png", "assets/oresplus/textures/gui/screenshot2.png"],
+  "dependencies": []
+}
+]
