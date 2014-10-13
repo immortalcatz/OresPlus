@@ -17,8 +17,7 @@ buildscript {
 
 apply plugin: 'forge'
 
-def date = new Date()
-version = date.format("yy") + "w" + date.format("w") + "u" + date.format("u")
+version = "1.0-SNAPSHOT"
 group = "com.outlook.siribby.oresplus"
 
 minecraft {
